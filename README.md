@@ -4,9 +4,17 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+  Software engineering is the systematic design, development, and maintenance of software. It ensures software is reliable, efficient, and scalable. The tech industry is vital for delivering high-quality products, managing costs and complexity, ensuring security, and driving innovation.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+  Three key milestones in software engineering are:
+
+1. NATO Software Engineering Conference (1968): Formalized software engineering as a distinct discipline, emphasizing the need for systematic development practices.
+
+2. Structured Programming (1970s): Introduced principles like modularity and control structures to improve code clarity and maintainability.
+
+3. Agile Manifesto (2001): Established Agile methodologies, promoting iterative development and collaboration, transforming project management and execution practices.
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
